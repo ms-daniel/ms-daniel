@@ -63,6 +63,7 @@
 
 - :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds.
 - 🔭 I’m currently learning <b>Artificial Intelligence</b>
+- 👯 I’m looking to collaborate on <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a>
 
 ---
 
@@ -73,6 +74,9 @@
   </a>
 </div>
  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ms-daniel&&style=flat-square" align="center" />
+</div>  
   
 <!--
 
@@ -80,5 +84,4 @@
 
 Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a>
 -->
