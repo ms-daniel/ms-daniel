@@ -63,7 +63,7 @@
 
 - :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds.
 - 🔭 I’m currently learning <b>Artificial Intelligence</b>
-- :busts_in_silhouette: I’m looking to collaborate on <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a>
+- :busts_in_silhouette: I’m looking to collaborate on <a href="https://github.com/marcosdosea/AgendeMe" target="_blank">AgendeMe</a>
 
 ---
 
