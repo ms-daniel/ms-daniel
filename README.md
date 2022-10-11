@@ -70,7 +70,7 @@
 <div align="center">
   <a href="https://github.com/ms-daniel">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ms-daniel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=20000&text_color=ffffff&custom_title=Carlos%20Daniel'%20Github%20Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&layout=compact&theme=transparent&text_color=ffffff&langs_count=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&layout=compact&langs_count=10&theme=transparent&text_color=ffffff"/>
   </a>
 </div>
  
