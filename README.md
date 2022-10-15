@@ -61,20 +61,25 @@
   <h2>Welcome to my HUB</h2>
 </div>
 
+
+ <a href="https://github.com/ms-daniel">
+      <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=ms-daniel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&custom_title=Carlos%20Daniel'%20Github%20Stats&card_width=400"/>
+ </a>
+
+-
+-
 - :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds.
 - 🔭 I’m currently learning <b>Artificial Intelligence</b>
 - :busts_in_silhouette: I’m looking to collaborate on <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a>
-
+- 
 ---
 
 <div align="center">
-  <a href="https://github.com/ms-daniel">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ms-daniel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&custom_title=Carlos%20Daniel'%20Github%20Stats&card_width=400"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=ffffff&cache_seconds=10000&card_width=400&layout=compact"/>
-  </a>
+<a href="https://github.com/ms-daniel">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=ffffff&cache_seconds=10000&card_width=400&layout=compact"/>
+</a>
 </div>
- 
-<br>
+
  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ms-daniel&&style=flat-square" align="center" />
