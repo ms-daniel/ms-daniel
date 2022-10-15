@@ -69,8 +69,8 @@
 
 <div align="center">
   <a href="https://github.com/ms-daniel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ms-daniel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&custom_title=Carlos%20Daniel'%20Github%20Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&layout=compact&langs_count=10&theme=transparent&text_color=ffffff&cache_seconds=10000"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ms-daniel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&custom_title=Carlos%20Daniel'%20Github%20Stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=ffffff&cache_seconds=10000&card_width=450&layout=compact"/>
   </a>
 </div>
  
