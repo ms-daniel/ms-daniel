@@ -76,7 +76,7 @@
 
 <div align="center">
 <a href="https://github.com/ms-daniel">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=ffffff&cache_seconds=10000&card_width=400&layout=compact"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=ffffff&card_width=400&layout=compact"/>
 </a>
 </div>
 
@@ -84,11 +84,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ms-daniel&&style=flat-square" align="center" />
 </div>  
-
-<!--
-
-**ms-daniel/ms-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
