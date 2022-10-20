@@ -62,7 +62,7 @@
 </div>
 
  <a href="https://github.com/ms-daniel">
-      <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=ms-daniel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&custom_title=Carlos%20Daniel'%20Github%20Stats&card_width=400&cache_seconds=19000"/>
+      <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=ms-daniel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=1E90FF&title_color=6A5ACD&icon_color=708090&custom_title=Carlos%20Daniel'%20Github%20Stats&card_width=400&cache_seconds=19000"/>
  </a>
 
 -
@@ -76,7 +76,7 @@
 
 <div align="center">
 <a href="https://github.com/ms-daniel">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=00008B&card_width=400&layout=compact"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=1E90FF&card_width=400&layout=compact&title_color=6A5ACD"/>
 </a>
 </div>
 
