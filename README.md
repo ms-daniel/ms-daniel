@@ -76,7 +76,7 @@
 
 <div align="center">
 <a href="https://github.com/ms-daniel">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=ffffff&card_width=400&layout=compact"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=00008B&card_width=400&layout=compact"/>
 </a>
 </div>
 
