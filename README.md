@@ -60,7 +60,7 @@
 <div align="center">
   <h2>Welcome to my HUB</h2>
 </div>
-
+<div style="background-color:black;">
  <a href="https://github.com/ms-daniel">
       <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=ms-daniel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=1E90FF&title_color=6A5ACD&icon_color=708090&custom_title=Carlos%20Daniel'%20Github%20Stats&card_width=400&cache_seconds=19000"/>
  </a>
@@ -84,3 +84,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ms-daniel&&style=flat-square" align="center" />
 </div>  
+</div>
