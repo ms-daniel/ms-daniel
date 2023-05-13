@@ -57,9 +57,7 @@
 
 <br/>  
 -->
-<div align="center">
-  <h2>Welcome to my HUB</h2>
-</div>
+<img src="./assets/welcome-ms-daniel.gif" align="middle" alt="Banner" width="100%"/>
 
  <a href="https://github.com/ms-daniel">
       <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=ms-daniel&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ffffff&title_color=1E90FF&icon_color=708090&custom_title=Carlos%20Daniel'%20Github%20Stats&card_width=400&bg_color=000000&border_color=1E90FF&cache_seconds=7200"/>
