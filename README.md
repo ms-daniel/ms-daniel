@@ -30,5 +30,7 @@
  ---
 
 <div align="center">
+ <img src="./assets/luffy-52.gif" width="20%">
+ 
 <img src="https://komarev.com/ghpvc/?username=ms-daniel&&style=flat-square" />
 </div>
