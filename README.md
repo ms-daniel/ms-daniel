@@ -25,8 +25,10 @@
 <a href="https://github.com/ms-daniel">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=ffffff&card_width=400&layout=compact&title_color=1E90FF&bg_color=000000&border_color=1E90FF"/>
 </a> 
- 
 </div>
+
+ ---
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ms-daniel&&style=flat-square" />
 </div>
