@@ -1,18 +1,18 @@
 <img src="./assets/welcome-ms-daniel.gif" align="middle" alt="Banner" width="100%"/>
 
 ---
-<img src="./assets/coding.gif" align="right" alt="coding image" height="30%" width="30%">
+<img src="./assets/coding.gif" align="right" alt="coding image" height="30%" width="30%"><br>
 
--
--
--
-- :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds.
-- 🔭 I’m currently learning <b>how to be better</b>
-- :busts_in_silhouette: I’m looking to collaborate on <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a>
--
--
--
--
+
+
+
+- :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds. <br><br><br>
+- 🔭 I’m currently learning <b>how to be better</b> <br><br><br>
+- :busts_in_silhouette: I’m looking to collaborate on <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a> <br><br><br><br>
+
+
+
+
 
 ---
 <div align="center">
