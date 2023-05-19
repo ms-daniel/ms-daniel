@@ -1,14 +1,15 @@
 <img src="./assets/welcome-ms-daniel.gif" align="middle" alt="Banner" width="100%"/>
 
 ---
-<img src="./assets/coding.gif" align="right" alt="coding image" height="30%" width="30%"><br>
+<img src="./assets/coding.gif" align="right" alt="coding image" height="30%" width="30%"><br><br>
 
 
 
 
-- :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds. <br><br><br>
-- 🔭 I’m currently learning <b>Flutter & Dart</b> <br><br><br>
-- :busts_in_silhouette: I’m looking to collaborate on <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a> <br><br><br><br>
+- :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds. <br><br>
+- 🔭 I’m currently learning <b>Flutter & Dart</b> <br><br>
+- 🚀 Contributing to the <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a> project  <br><br>
+- 🛠️ And to the <a href="https://github.com/marcosdosea/GestaoGrupoMusical">Music Group Management</a> project<br><br><br>
 
 
 
