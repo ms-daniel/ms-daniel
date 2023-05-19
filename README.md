@@ -7,7 +7,7 @@
 
 
 - :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds. <br><br>
-- 🔭 I’m currently learning <b>Flutter & Dart</b> <br><br>
+- 🔭 Currently learning <b>Flutter & Dart</b> <br><br>
 - 🚀 Contributing to the <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a> project  <br><br>
 - 🛠️ And to the <a href="https://github.com/marcosdosea/GestaoGrupoMusical">Music Group Management</a> project<br><br><br>
 
