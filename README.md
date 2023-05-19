@@ -12,7 +12,9 @@
 ## Contact
 
 <div id="contacts">
- <img href="ms_danniel@outlook.com" src="./assets/email.png" alt="email to contact" width="5%">
+ <a href="ms_danniel@outlook.com">
+  <img  src="./assets/email.png" alt="email to contact" width="5%">
+ </a>
  <img href="https://wa.me/qr/GSP43QHXUGT7C1" src="./assets/whatsapp.png" alt="whatsapp to contact" width="5%">
  <img href="https://www.instagram.com/_ms_daniel" src="./assets/instagram.png" alt="instagram to contact" width="5%">
 </div>
