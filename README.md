@@ -12,13 +12,16 @@
 ## Contact
 
 <div id="contacts">
- 
+ <a href="mailto:ms_danniel@outlook.com" target="_blank" alt="whatsapp to contact">
   <img  src="./assets/email.png" alt="email to contact" width="5%">
-
- <a href="https://wa.me/qr/GSP43QHXUGT7C1">
-  <img src="./assets/whatsapp.png" alt="whatsapp to contact" width="5%">
  </a>
- <img href="https://www.instagram.com/_ms_daniel" src="./assets/instagram.png" alt="instagram to contact" width="5%">
+ <a href="https://wa.me/qr/GSP43QHXUGT7C1" target="_blank" alt="whatsapp to contact">
+  <img src="./assets/whatsapp.png"  width="5%">
+ </a>
+ 
+ <a href="https://www.instagram.com/_ms_daniel" target="_blank" alt="instagram to contact">
+  <img  src="./assets/instagram.png"  width="5%">
+ </a>
 </div>
 
 ---
