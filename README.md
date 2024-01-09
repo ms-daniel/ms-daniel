@@ -8,7 +8,7 @@
 - 🔭 Currently learning <b>Flutter & Dart</b> <br>
 - 🚀 Contributing to the <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a> project  <br>
 - 🛠️ learning Flutter/Dart with <a href="https://github.com/ms-daniel/Placar-Flutter">Scoreboard</a> project<br>
-- :snake: And Django in <a href="www.ohubnerd.shop">Hub Nerd</a><br>
+- :snake: And Django in <a href="https://www.ohubnerd.shop" target="_blank">Hub Nerd</a><br>
 
 ## Contact
 
