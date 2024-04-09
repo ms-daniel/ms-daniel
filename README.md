@@ -9,6 +9,7 @@
 - 🚀 Contributing to the <a href="https://github.com/marcosdosea/AgendeMe">AgendeMe</a> project  <br>
 - 🛠️ learning Flutter/Dart with <a href="https://github.com/ms-daniel/Placar-Flutter">Scoreboard</a> project<br>
 - :snake: And Django in <a href="https://www.ohubnerd.shop" target="_blank">Hub Nerd</a><br>
+- See Also: <a href="https://github.com/marcosdosea/GestaoGrupoMusical" target="_blank">Gestão de Grupo Musical</a>, <a href="https://github.com/ms-daniel/JogoDaVelha" target="_blank">Jogo da Velha Online(Java)</a>, <a href="https://github.com/ms-daniel/JogoDaVelha" target="_blank">RL - Labirinto(Java)</a><br>
 
 ## Contact
 
