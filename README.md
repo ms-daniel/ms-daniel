@@ -1,7 +1,7 @@
 <img src="./assets/welcome-ms-daniel.gif" align="middle" alt="Banner" width="100%"/>
 
 ---
-<img src="./assets/coding.gif" align="right" alt="coding image" height="30%" width="33%">
+<img src="./assets/coding.gif" align="right" alt="coding image" height="30%" width="33%"> 
 
 ## 📝About Me
 - :books: Currently an Information Systems student at the Federal University of Sergipe seeking to extract the best of the worlds. <br>
