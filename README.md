@@ -1,4 +1,4 @@
-<img src="./assets/welcome-ms-daniel.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/welcome-ms-daniel2.gif" align="middle" alt="Banner" width="100%"/>
 
 ---
 <img src="./assets/coding.gif" align="right" alt="coding image" height="30%" width="33%"> 
