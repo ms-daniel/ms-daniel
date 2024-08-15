@@ -59,7 +59,6 @@
   ✦
   <code><img height="40" src="./assets/mongodb.png" alt="MongoDB"/></code>
   <code><img height="40" width="40" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle"/></code>
-  <code><img height="40" src="./assets/c++.png" alt="C/C++"/></code>
 </div>
 
 ---
