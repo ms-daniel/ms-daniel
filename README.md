@@ -83,9 +83,9 @@
  <a href="mailto:ms_danniel@outlook.com" target="_blank" alt="whatsapp to contact">
   <img  src="./assets/email.png" alt="email to contact" width="5%">
  </a>
- <a href="https://wa.me/qr/GSP43QHXUGT7C1" target="_blank" alt="whatsapp to contact">
+ <!--<a href="https://wa.me/qr/GSP43QHXUGT7C1" target="_blank" alt="whatsapp to contact">
   <img src="./assets/whatsapp.png"  width="5%">
- </a>
+ </a> -->
  
  <a href="https://www.instagram.com/_ms_daniel" target="_blank" alt="instagram to contact">
   <img  src="./assets/instagram.png"  width="5%">
