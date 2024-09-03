@@ -33,6 +33,9 @@
   <code><img height="40" src="./assets/cakephp.png" alt="CakePHP"/></code>
   <code><img height="40" src="./assets/django.png" alt="Django"/></code>
   <code><img height="40" src="./assets/fastpi.png" alt="Fastapi"/></code>
+  <br>
+  ☻
+  <code><img height="40" src="./assets/yii-framework.png" alt="Yii"/></code>
 
   <h2> Stack/Technologies </h2>
   ✯
